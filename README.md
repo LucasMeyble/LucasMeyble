@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas Meyble</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
+<h3>Hi, my name is Lucas and I'm passionate about technology kk.
+I love playing volleyball and basketball 🏐🏀.
+Currently I am focused on studying and developing applications based on node, react and react native.
+I've been working in the market since 2019, and now I'm an intern at AdasiSoftware 💙.</h3>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmeyble" alt="lucasmeyble" /></a> </p>
 
