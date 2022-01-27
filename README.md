@@ -6,8 +6,6 @@ Currently I am focused on studying and developing applications based on node, re
 I've been working in the market since 2019, and now I'm an intern at AdasiSoftware 💙.</h3>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmeyble" alt="lucasmeyble" /></a> </p>
-
 - 🔭 I am currently working with **React, React-native, Node**
 
 - 🌱 I’m currently learning **React, React-native, Node**
