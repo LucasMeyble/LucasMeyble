@@ -3,6 +3,7 @@
 <h3>Hi, my name is Lucas and I'm passionate about technology kk.
 I love playing volleyball and basketball 🏐🏀.
 Currently I'm focused on studying and developing applications based on PHP, with laravel and VUE.
+<br/>
 I work in the market since 2019.</h3>
 <br/>
 
