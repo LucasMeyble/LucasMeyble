@@ -6,9 +6,9 @@ Currently I'm focused on studying and developing applications based on PHP, with
 I work in the market since 2019.</h3>
 <br/>
 
-- 🔭 I am currently working with **React, React-native, Node**
+- 🔭 I am currently working with **PHP, laravel and VUE**
 
-- 🌱 I’m currently learning **React, React-native, Node**
+- 🌱 I’m currently learning **PHP, laravel and VUE**
 
 - 📫 How to reach me **lucasmeyble123@gmail.com**
 
