@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 <h3>Hi, my name is Lucas and I'm passionate about technology kk.
 I love playing volleyball and basketball 🏐🏀.
-Currently I am focused on studying and developing applications based on node, react and react native.
-I've been working in the market since 2019, and now I'm an intern at AdasiSoftware 💙.</h3>
+Currently I'm focused on studying and developing applications based on PHP, with laravel and VUE.
+I work in the market since 2019.</h3>
 <br/>
 
 - 🔭 I am currently working with **React, React-native, Node**
