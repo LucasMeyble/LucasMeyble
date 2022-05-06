@@ -28,4 +28,4 @@ I work in the market since 2019.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmeyble&show_icons=true&theme=dracula&locale=en" alt="lucasmeyble" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmeyble&" alt="lucasmeyble" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmeyble&theme=dark" alt="lucasmeyble" /></p>
