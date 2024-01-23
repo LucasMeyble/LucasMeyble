@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lucas Meyble</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<h3>Olá, me chamo Lucas e sou um apaixonado pela tecnologia kk.
+<h3>Hi, my name is Lucas and I'm passionate about technology lol.
 
-Formado em Análise de sistemas pela UniFavip, iniciei minha carreira como desenvolvedor 2020, quando iniciei um estágio na área de programação e tive a oportunidade de entrar de frente nesse mundo.
+Graduated in Systems Analysis from UniFavip, I started my career as a developer in 2020, when I started an internship in the programming area and had the opportunity to enter this world head-on.
 
-Tenho trabalhado como desenvolvedor fullstack desde então, basicamente utilizando as linguagens PHP(Laravel e CodIgniter), Node, React, React Native e VUE. Nestes 4 anos trabalhando com desenvolvimento fullstack tive a oportunidade de trabalhar com diversas tecnologias: Docker, MySQL, PostgreSQL, Bullmq, Redis, Tailwind CSS.
+I have been working as a fullstack developer since then, basically using the languages PHP (Laravel and CodIgniter), Node, React, React Native and VUE. In these 4 years working with fullstack development I had the opportunity to work with different technologies: Docker, MySQL, PostgreSQL, Bullmq, Redis, Tailwind CSS.
 
-Atualmente estou trabalhando com Node e Vue + Quasar, com foco em front-end.</h3>
+I'm currently working with Node and Vue + Quasar, focusing on front-end.</h3>
 <br/>
 
 
-- 🔭 I’m currently working with **PHP, laravel and VUE**
+- 🔭 I’m currently working with **NODE, Vue 2/3 and Quasar**
 
-- 🌱 I’m currently learning **PHP, laravel and VUE**
+- 🌱 I’m currently learning **NODE and Dcoker**
 
 - 📫 How to reach me **lucasmeyble123@gmail.com**
 
